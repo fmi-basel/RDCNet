@@ -5,7 +5,7 @@ Official tensorflow implementation of **RDCNet**, a simple and efficient neural 
 Raphael Ortiz, Gustavo de Medeiros, Antoine H.F.M. Peters, Prisca Liberali, Markus Rempfler\
 
 <br><br>
-<p align="center"> <img src="figs/abstract.png" width="75%"> </p>
+<p align="center"> <img src="figs/abstract.png" width="100%"> </p>
 
 ## Installation
 This code has been tested with python 3.7, Tensorflow 2.3, Cuda 10.2, cuDNN 7.6.5 on Ubuntu 18.04
