@@ -2,7 +2,7 @@
 Official tensorflow implementation of **RDCNet**, a simple and efficient neural architecture for the segmentation of 2D and 3D images. For details, please refer to:
 
 **RDCNet: Instance segmentation with a minimalist recurrent residual network**\
-Raphael Ortiz, Gustavo de Medeiros, Antoine H.F.M. Peters, Prisca Liberali, Markus Rempfler\
+Raphael Ortiz, Gustavo de Medeiros, Antoine H.F.M. Peters, Prisca Liberali, Markus Rempfler
 
 <br><br>
 <p align="center"> <img src="figs/abstract.png" width="100%"> </p>
